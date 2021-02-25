@@ -1,0 +1,31 @@
+h1 {
+    color: red;
+    font: italic;
+    font-style: italic;
+    
+}
+/** {
+    border: solid
+}*/
+.header {
+    background-color: #abc576;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+}
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer {
+    background-color: #def150;
+    display: flex;
+    justify-content: flex-end;
+}
+.description {
+    text-align: center;
+}
+body {
+    background-color: #808080;
+}
